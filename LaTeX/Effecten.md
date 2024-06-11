@@ -69,6 +69,7 @@ Een vaker voorkomende notatie voor vectoren zijn pijlen. LaTeX beschikt ook over
 Deze effecten kunnen gebruikt worden om geschatte variabelen en de Fourier-analyse aan te geven. Dit gaat met behulp van de `widehat` en `widetilde` tags gevolgd door de tekst waar het effect nodig is.
 
 >[!example]- Voorbeeld dakjes en tildes
+>
 >Schattingen kunnen aangegeven worden met een $\widehat{}$.
 >```
 >$\widehat{Y} = a + bx$
@@ -92,6 +93,7 @@ Deze effecten kunnen gebruikt worden om geschatte variabelen en de Fourier-analy
 Braces kunnen gebruikt worden om extra context te geven in een formule, dit kan bijvoorbeeld bij een onderdeel van een formule of bij sommatie. Zoals de andere effecten kunnen deze aangeroepen worden met `\overbrace` en `\underbrace` gevolgd door een underscore (`_`) of caret-symbool (`^`) met de tekst respectievelijk.
 
 >[!example]- Voorbeeld braces
+>
 >Braces kunnen gebruikt worden om een deel van een formule duidelijker te maken:
 >```
 >$Y = \underbrace{a + bx}_{\text{formule van de lijn}}$

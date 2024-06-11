@@ -28,7 +28,7 @@ Resultaat:
 
 ## Infoblokken
 
-Markdown ondersteunt ook infoblokken die gebruikt kunnen worden om informatie op een opvallende manier weer te geven. Dit kan worden gedaan door `[!info]`, `[!tip]` of andere specifieke bloktypes aan het begin van de quote te plaatsen.
+Markdown ondersteunt ook infoblokken die gebruikt kunnen worden om informatie op een opvallende manier weer te geven. Dit kan worden gedaan door `[!info]`, `[!tip]` of andere specifieke bloktypes aan het begin van de quote te plaatsen. Vergeet niet een lege lijn met alleen `>` tussen de titel en inhoud van dit blok te zetten.
 
 Hier is een voorbeeld van een infoblok:
 
@@ -42,9 +42,11 @@ Hier is een voorbeeld van een infoblok:
 ```
 
 > [!info] infoblokken
+> 
 > Een quote kan ook in een infoblok worden veranderd door er `[!info]` of `[!tip]` voor te zetten. Ook kan de naam van het blok veranderd worden door de naam op de eerste lijn na `]` te zetten.
 > > [!example]+ Nested infoblokken zijn ook mogelijk
-> > Door een `+` of `-` na de `]` toe te voegen kan deze ook ingevouwen worden.
+> > 
+> > Door een `+` of `-` na de `]` toe te voegen kunnen deze ook ingevouwen worden.
 
 ### Types/iconen van infoblokken
 
@@ -52,7 +54,9 @@ Er zijn verschillende types en bijbehorende icoontjes die gebruikt kunnen worden
 
 
 > [!example]- Voorbeeld iconen
+> 
 > > [!abstract]-
+> > 
 > >Kan ook met `summary` of `tldr` gemaakt worden.
 > 
 > >[!note]
@@ -62,15 +66,19 @@ Er zijn verschillende types en bijbehorende icoontjes die gebruikt kunnen worden
 > >[!todo]
 > 
 > >[!tip]-
+> >
 > > Kan ook met `hint` of `important` gemaakt worden.
 > 
 > >[!success]-
+> >
 > > Kan ook met `check` of `done` gemaakt worden.
 > 
 > >[!failure]-
+> >
 > > Kan ook met `fail` of `missing` gemaakt worden.
 > 
 > >[!danger]-
+> >
 > > Kan ook met `error` gemaakt worden.
 > 
 > >[!bug]
@@ -78,6 +86,7 @@ Er zijn verschillende types en bijbehorende icoontjes die gebruikt kunnen worden
 > > [!example]
 > 
 > > [!quote]-
+> > 
 > > Kan ook met `cite` gemaakt worden
 
 
@@ -91,4 +100,5 @@ Hier is een voorbeeld van hoe een `tip` blok gemaakt kan worden:
 Resultaat:
 
 > [!tip] Dit is een tip! 
+> 
 > Tips kunnen handige informatie bevatten die de lezer helpt.

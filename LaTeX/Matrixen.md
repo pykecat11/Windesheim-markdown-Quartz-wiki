@@ -51,6 +51,7 @@ c & d
 $$
 
 > [!example]- Matrixen met haakjes
+> 
 > |**Type**|**Code**|**Resultaat**|
 > |:-|:-|:-:|
 > |`matrix`|`$\begin{matrix} a & b \\ c & d \end{matrix}$`| $\begin{matrix} a & b \\ c & d \end{matrix}$ |
@@ -75,6 +76,7 @@ De matrix is: $\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}$
 net zoals bij normale matrixes kunnen p, b, B, v en V hiervoor gezet worden om scheidingstekens toe te voegen.
 
 > [!example]- Smallmatrixen met haakjes
+> 
 > |**Type**|**Code**|**Resultaat**|
 > |:-|:-|:-:|
 > |`smallmatrix`|`$\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}$` | $\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}$ |
@@ -85,6 +87,7 @@ net zoals bij normale matrixes kunnen p, b, B, v en V hiervoor gezet worden om s
 > |`Vsmallmatrix`|`$\begin{Vsmallmatrix} a & b \\ c & d \end{Vsmallmatrix}$` | $\begin{Vsmallmatrix} a & b \\ c & d \end{Vsmallmatrix}$ |
 
 >[!danger] Leesbaarheid smallmatrix
+>
 >smallmatrix is niet altijd goed leesbaar, probeer hier voor slechtziende gebruikers rekening mee te houden.
 
 ## Eigen scheidingstekens
@@ -110,6 +113,7 @@ d & e & f
 $$
 
 > [!example]- Beschikbare scheidingstekens
+> 
 > |**Teken**|**Code**|**Resultaat**|
 > |:-|:-|:-:|
 > |`[]`|`$$\left[ \begin{smallmatrix} a & b \\ c & d \end{smallmatrix} \right]$$`|$$\left[ \begin{smallmatrix} a & b \\ c & d \end{smallmatrix} \right]$$|
