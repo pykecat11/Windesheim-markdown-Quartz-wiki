@@ -1,5 +1,5 @@
 ---
-title: comments
+title: Comments
 draft: false
 tags:
   - markdown

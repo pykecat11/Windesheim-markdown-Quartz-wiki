@@ -34,8 +34,10 @@ Hier is een voorbeeld van een infoblok:
 
 ```
 > [!info] infoblokken
+> 
 > Een quote kan ook in een infoblok worden veranderd door er `[!info]` of `[!tip]` voor te zetten. Ook kan de naam van het blok veranderd worden door de naam op de eerste lijn na `]` te zetten.
 > > [!example]+ Nested infoblokken zijn ook mogelijk
+> > 
 > > Door een `+` of `-` na de `]` toe te voegen kan deze ook ingevouwen worden.
 ```
 

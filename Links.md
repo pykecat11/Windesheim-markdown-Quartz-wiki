@@ -1,5 +1,5 @@
 ---
-title: links
+title: Links
 draft: false
 tags:
   - markdown

@@ -1,5 +1,5 @@
 ---
-title: lijsten
+title: Lijsten
 draft: false
 tags:
   - markdown
