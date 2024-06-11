@@ -55,6 +55,7 @@ Voorbeeld:
 Resultaat: ==gemarkeerde teskst==
 
 > [!missing] Underlined tekst
+> 
 > Tekst met een underline is niet beschikbaar binnen markdown, deze tekst is lastig te lezen en wordt geassocieerd met links.
 
 ### Combineren van meerdere effecten

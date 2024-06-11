@@ -23,6 +23,7 @@ de meeste basisoperatoren (+, -, =, <, >) zijn als tekst binnen LaTeX te gebruik
 | Deling            | `$a \div b$`                  | $a \div b$                  |
 
 >[!tip] Deling en fracties
+>
 > Voor betere leesbaarheid en consistentie is het aangeraden om [[Uitdrukkingen#Fracties|fracties]] in plaats van deling te gebruiken, vooral in grotere functies. Dit voorkomt onduidelijkheden en is consistent met de conventies.
 
 ## Niet-Latijnse karakters 
@@ -38,6 +39,7 @@ Resultaat:
 Met behulp van LaTeX kunnen symbolen zoals $\aleph$ en $\Delta$ gemakkelijk gebruikt worden!
 
 > [!example]- Lijst van karakters
+> 
 > Door de eerste letter een hoofdletter te maken wordt de hoofdletter gebruikt:
 >  `delta`$\delta$ $\rightarrow$ `Delta` $\Delta$
 > Dit is niet beschikbaar voor elke letter omdat sommige letters hetzelfde zijn als in het latijnse alfabet.
