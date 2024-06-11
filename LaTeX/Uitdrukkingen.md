@@ -87,6 +87,7 @@ log_{10}(100)
 $$
 
 >[!tip] Basis van logaritmes
+>
 >Probeer altijd een basis mee te geven aan een logaritme. Dit voorkomt verwarring omdat de "standaard" basis 10 of $e$ kan zijn.
 
 ### Sommatie en Product

@@ -31,6 +31,7 @@ Resultaat:
 Andere bestanden kunnen ook gelinkt worden, bijvoorbeeld de [[index|homepagina]]! 
 
 > [!tip]
+> 
 > Probeer in plaats van "De informatie kan [[Links#Bestanden binnen de wiki|hier]] gevonden worden." de relevante woord(en) als link aan te geven bijvoorbeeld:
 > > Hier is kennis over het [[Links#Bestanden binnen de wiki|linken van bestanden]] voor nodig.
 > 
