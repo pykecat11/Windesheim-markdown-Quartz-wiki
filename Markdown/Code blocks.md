@@ -43,7 +43,7 @@ Door een extra `Print(i)` toe te voegen...
 Resultaat:
 
 Door een extra `Print(i)` toe te voegen...
-## Uitvoerbare codeblokken
+# Uitvoerbare codeblokken
 
 Om een codeblok uitvoerbaar te maken, voeg je "runner" en "sandbox" toe na de naam van de taal. Hierdoor kunnen gebruikers de code direct vanuit de wiki uitvoeren en bewerken.
 
@@ -66,7 +66,7 @@ print(hello, world := "world")
 en een sandbox blok:
 
 ~~~
-```python runner
+```python sandbox
 hello = "hello"
 print(hello, world := "world")
 ```
@@ -78,3 +78,23 @@ Resultaat:
 hello = "hello"
 print(hello, world := "world")
 ```
+
+# Mermaid-blokken
+
+Met behulp van [[Mermaid|mermaid]] is het ook mogelijk diagrammen binnen code blokken te maken. dit kan gedaan worden door de taal van het blok op `mermaid` te zetten:
+
+~~~
+```mermaid
+flowchart LR
+	A --> B
+```
+~~~
+
+Resultaat:
+
+```mermaid
+flowchart LR
+	A --> B
+```
+
+Er zijn veel soorten diagrammen mogelijk, uitleg over het maken van deze diagrammen is te vinden op de [[Mermaid|mermaid]] pagina.

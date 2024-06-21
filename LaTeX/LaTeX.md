@@ -9,7 +9,7 @@ aliases:
   - matrix
 difficulty: 1
 ---
-Markdown biedt ondersteuning voor het invoegen van LaTeX-formules, waardoor wetenschappelijke en wiskundige notaties eenvoudig in documenten kunnen worden opgenomen.
+Obsidian en Quartz hebben de mogelijkheid om LaTeX-formules in te voegen, hiermee kunnen wetenschappelijke en wiskundige notaties eenvoudig in documenten opgenomen worden.
 
 ## Inline LaTeX
 

@@ -44,7 +44,7 @@ Quartz ondersteunt verschillende frontmatter tags. Hieronder is een overzicht va
 | `date`        | De datum waarop de pagina is geschreven of bewerkt.                          | yyyy-mm-dd  |
 | `aliases`     | Alternatieve namen voor de pagina, deze redirecten naar deze pagina.         | string\[\]  |
 | `difficulty`  | De moeilijkheidsgraad van de inhoud op de pagina.                            | int         |
-%%==voeg betekenis nummers difficulty toe, controleer date > hudige date->onzichtbaar en voeg waarschuwing toe==%%
-## Frontmatter binnen obsidian
+%%==voeg betekenis nummers difficulty toe==%%
 
-Als Obsidian wordt gebruikt voor het beheren van de wiki, verandert de frontmatter in een tabel. Let hierbij op dat de datum in het systeemformaat wordt weergegeven.
+> [!danger]+ Frontmatter binnen Obsidian
+> Wanneer Obsidian wordt gebruikt voor het schrijven van frontmatter verandert de frontmatter in een tabel. Let hierbij op dat de datum in het systeemformaat wordt weergegeven en niet yyyy-mm-dd. Als de datum in de frontmatter nog niet geweest is zal de pagina niet zichtbaar zijn binnen quartz.

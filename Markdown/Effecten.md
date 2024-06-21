@@ -73,10 +73,10 @@ Resultaat: ~~__dikgedrukte doorgestreepte tekst__~~
 Alternatief voorbeeld:
 
 ```
-dit gedeelte van de *tekst is schuin ~~en dit is* onderstreept~~
+dit gedeelte van de *tekst is schuin ~~en dit is* doorgestreept~~
 ```
 
-Resultaat: dit gedeelte van de *tekst is schuin ~~en dit is* onderstreept~~
+Resultaat: dit gedeelte van de *tekst is schuin ~~en dit is* doorgestreept~~
 
 ### Effecten escapen
 

@@ -9,8 +9,7 @@ aliases:
   - onzichtbare text
 difficulty: 1
 ---
-
-In onze wiki kun je commentaar toevoegen dat niet zichtbaar is voor de lezer. Deze comments zijn alleen zichtbaar in de editor en kunnen ook [[Effecten|teksteffecten]] bevatten. Dit is handig voor het toevoegen van notities of uitleg voor de redacteuren zonder dat de eindgebruiker deze ziet.
+In onze wiki kun je commentaar toevoegen dat niet zichtbaar is voor de lezer. Deze comments zijn alleen zichtbaar in de editor en kunnen ook [[Markdown/Effecten|teksteffecten]] bevatten. Dit is handig voor het toevoegen van notities of uitleg voor de redacteuren zonder dat de eindgebruiker deze ziet.
 
 Gebruik de volgende syntax om een commentaar toe te voegen:
 
@@ -30,3 +29,7 @@ print("Hallo")
 ```
 
 %%==dit kan een bug zijn ^==%%
+%%==zien comments zichtbaar binnen quartz html source?==%%
+## Mermaid
+
+Het is ook mogelijk comments in een [[Mermaid#comments|mermaid]] diagram te zetten. Dit kan met behulp van dubbele procenttekens (`%%`) zoals in dit voorbeeld:

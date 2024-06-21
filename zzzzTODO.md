@@ -19,3 +19,7 @@ draft: true
 - [x] consistentie tekens aangeven: naamteken (`teken`) niet alleen naam of alleen teken 
 - [ ] tips en warns
 - [ ] zet datums op publish-datum
+
+## github
+- [ ] screenshots van callouts in matrixen weghalen
+- [ ] screenshots in infoblokken en quotes

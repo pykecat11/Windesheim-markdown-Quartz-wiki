@@ -29,7 +29,7 @@ Binnen de tabellen een pipe (`|`) worden geëscaped met behulp van een backslash
 Ook kunnen effecten en links zoals *schuine* of ~~doorstreepte~~ tekst gebruikt worden binnen tabel.
 ## Alignment van de kolommen
 
-Het alignen van de kolommen kan worden gedaan door het toevoegen van specifieke een dubbele punt (`:`) naast de pipes (`|`). De mogelijkheden zijn: 
+Het alignen van de kolommen kan worden gedaan door het toevoegen van een dubbele punt (`:`) naast de pipes (`|`). De mogelijkheden zijn: 
 - `:-` voor links alignen (default)
 - `:-:` voor centreren 
 - `-:` voor rechts alignen

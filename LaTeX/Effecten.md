@@ -9,19 +9,19 @@ aliases:
 difficulty: 1
 ---
 
-LaTeX heeft net [[Effecten|zoals markdown]] zijn eigen effecten. in dit hoofdstuk worden een aantal van deze elementen behandeld.
+LaTeX heeft net [[Markdown/Effecten|zoals markdown]] zijn eigen effecten. in dit hoofdstuk worden een aantal van deze elementen behandeld.
 
 ##### Tekst
 
 Om tekst die geen variabel is er als normale text uit te laten zijn kan deze met behulp van de `\text` tag gevolgd door een paar accolades (`{}`) teruggezet worden tot normale text, dit kan erg handig zijn wanneer er met [[LaTeX/Effecten#Braces|underbraces]] gewerkt wordt:
 
 ```
-$Deze tekst ziet er niet helemaal juist uit, \text{misschien kan de \\text tag deze terugzetten.}$
+$Deze tekst ziet er niet helemaal juist uit, \text{misschien kan de text tag deze terugzetten.}$
 ```
 
 Resultaat:
 
-$Deze tekst ziet er niet helemaal juist uit, \text{misschien kan de \\text tag deze terugzetten.}$
+$Deze tekst ziet er niet helemaal juist uit, \text{misschien kan de text tag deze terugzetten.}$
 
 ##### boven en onder-streep
 Om herhalende kommagetallen, complementen en gemiddelden te noteren kan er gebruik gemaakt worden van een bovenstreep. Deze maakt gebruik van de `\overline` tag gevolgd door de te bewerken tekst of nummers:
@@ -64,7 +64,7 @@ Een vaker voorkomende notatie voor vectoren zijn pijlen. LaTeX beschikt ook over
 > 
 > Pijl naar $\overleftarrow{links}$ en naar $\overrightarrow{rechts}$
 
-###### Dakjes en tildes
+##### Dakjes en tildes
 
 Deze effecten kunnen gebruikt worden om geschatte variabelen en de Fourier-analyse aan te geven. Dit gaat met behulp van de `widehat` en `widetilde` tags gevolgd door de tekst waar het effect nodig is.
 
@@ -96,12 +96,12 @@ Braces kunnen gebruikt worden om extra context te geven in een formule, dit kan 
 >
 >Braces kunnen gebruikt worden om een deel van een formule duidelijker te maken:
 >```
->$Y = \underbrace{a + bx}_{\text{formule van de lijn}}$
+>$Y = \underbrace{a + bx}_{\text{formule van een lijn}}$
 >```
 >
 >Resultaat:
 >
->$Y = \underbrace{a + bx}_{\text{formule van de lijn}}$
+>$Y = \underbrace{a + bx}_{\text{formule van een lijn}}$
 >
 >Of voor extra uitleg bij een sommatie.
 >```

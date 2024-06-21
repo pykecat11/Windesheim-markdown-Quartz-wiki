@@ -1,10 +1,7 @@
 ---
 title: Symbolen
 draft: false
-tags:
-  - voorbeeld-tag
-  - tweede
-  - tag
+tags: []
 description: Uitleg over het gebruiken van symbolen binnen LaTeX.
 date: 2024-01-01
 aliases: 
